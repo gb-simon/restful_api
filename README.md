@@ -10,7 +10,7 @@ This is one of the API projects needed to attain the Back End Certificate at Fre
 
 ## The Final Product!
 
-This web application has been deployed to Heroku, and you can see it live here! https://discoveredbuckthornpepperberry.glitch.me
+This web application has been deployed to Heroku, and you can see it live here! https://discovered-buckthornpepperberry.glitch.me/
 
 ## Tips
 
